@@ -141,3 +141,409 @@ LockDownBrowserOEMSetup.exe - 103.48 MB - C:\Users\eraia\Downloads\LockDownBrows
 [2026-03-26 00:35:25] INPUT=folder jarvis. | TOOL=general_chat | ARGS={'text': 'folder jarvis.'} | RESULT=I can help you manage files, open websites, control settings pages, and chat with you.
 [2026-03-26 00:35:33] INPUT=red sarvesh. | TOOL=general_chat | ARGS={'text': 'red sarvesh.'} | RESULT=I can help you manage files, open websites, control settings pages, and chat with you.
 [2026-03-26 00:35:52] INPUT=folder documents slash files. | TOOL=general_chat | ARGS={'text': 'folder documents slash files.'} | RESULT=I can help you manage files, open websites, control settings pages, and chat with you.
+[2026-03-26 09:15:11] INPUT=hi | TOOL=general_chat | ARGS={'text': 'hi'} | RESULT=Hello! How can I help you?
+[2026-03-26 09:15:29] INPUT=what is ur name | TOOL=general_chat | ARGS={'text': 'what is ur name'} | RESULT=I can help you manage files, open websites, control settings pages, and chat with you.
+[2026-03-26 09:15:47] INPUT=open calculator | TOOL=open_calculator | ARGS={} | RESULT=Opening Calculator
+[2026-03-26 09:15:57] INPUT=open brave | TOOL=general_chat | ARGS={'text': 'open brave'} | RESULT=I can help you manage files, open websites, control settings pages, and chat with you.
+[2026-03-26 09:16:22] INPUT=open chrome. | TOOL=open_chrome | ARGS={} | RESULT=Bringing Chrome to front
+[2026-03-26 09:16:41] INPUT=hi. | TOOL=general_chat | ARGS={'text': 'hi.'} | RESULT=Hello! How can I help you?
+[2026-03-26 09:16:48] INPUT=open spotify. | TOOL=open_spotify | ARGS={'query': 'open .'} | RESULT=Opening Spotify
+[2026-03-26 09:17:18] INPUT=open youtube. | TOOL=open_youtube | ARGS={'query': 'open .'} | RESULT=Opening YouTube
+[2026-03-26 09:18:04] INPUT=45. | TOOL=general_chat | ARGS={'text': '45.'} | RESULT=I can help you manage files, open websites, control settings pages, and chat with you.
+[2026-03-26 09:18:13] INPUT=45. | TOOL=general_chat | ARGS={'text': '45.'} | RESULT=I can help you manage files, open websites, control settings pages, and chat with you.
+[2026-03-26 09:18:25] INPUT=spotify. | TOOL=open_spotify | ARGS={'query': '.'} | RESULT=Opening Spotify
+[2026-03-26 09:18:51] INPUT=open facebook. | TOOL=general_chat | ARGS={'text': 'open facebook.'} | RESULT=I can help you manage files, open websites, control settings pages, and chat with you.
+[2026-03-26 09:19:07] INPUT=browse facebook. | TOOL=general_chat | ARGS={'text': 'browse facebook.'} | RESULT=I can help you manage files, open websites, control settings pages, and chat with you.
+[2026-03-26 09:19:17] INPUT=browse spotify. | TOOL=open_spotify | ARGS={'query': 'browse .'} | RESULT=Opening Spotify
+[2026-03-26 09:19:35] INPUT=lana del rey, spotify. | TOOL=open_spotify | ARGS={'query': 'lana del rey, .'} | RESULT=Opening Spotify
+[2026-03-26 09:19:58] INPUT=open spotify and choose lana del rey. | TOOL=open_spotify | ARGS={'query': 'open  and choose lana del rey.'} | RESULT=Opening Spotify
+[2026-03-26 09:20:57] INPUT=hi, jarvis. | TOOL=general_chat | ARGS={'text': 'hi, jarvis.'} | RESULT=Hello! How can I help you?
+[2026-03-26 09:21:09] INPUT=play aluma doluma. | TOOL=general_chat | ARGS={'text': 'play aluma doluma.'} | RESULT=I can help you manage files, open websites, control settings pages, and chat with you.
+[2026-03-26 09:21:18] INPUT=open spotify and play aluma doluma. | TOOL=open_spotify | ARGS={'query': 'open  and  aluma doluma.'} | RESULT=Opening Spotify
+[2026-03-26 09:21:49] INPUT=youtube. | TOOL=open_youtube | ARGS={'query': '.'} | RESULT=Opening YouTube
+[2026-03-26 09:22:06] INPUT=open youtube and play aluma doluma song. | TOOL=open_youtube | ARGS={'query': 'open  and  aluma doluma song.'} | RESULT=Opening YouTube
+[2026-03-26 09:22:22] INPUT=call 911. | TOOL=general_chat | ARGS={'text': 'call 911.'} | RESULT=I can help you manage files, open websites, control settings pages, and chat with you.
+[2026-03-26 09:22:32] INPUT=open sreesanth hot photos. | TOOL=general_chat | ARGS={'text': 'open sreesanth hot photos.'} | RESULT=I can help you manage files, open websites, control settings pages, and chat with you.
+[2026-03-26 09:22:44] INPUT=open. | TOOL=general_chat | ARGS={'text': 'open.'} | RESULT=I can help you manage files, open websites, control settings pages, and chat with you.
+[2026-03-26 09:22:54] INPUT=no open exams state. | TOOL=general_chat | ARGS={'text': 'no open exams state.'} | RESULT=I can help you manage files, open websites, control settings pages, and chat with you.
+[2026-03-26 09:23:04] INPUT=open. | TOOL=general_chat | ARGS={'text': 'open.'} | RESULT=I can help you manage files, open websites, control settings pages, and chat with you.
+[2026-03-26 09:23:11] INPUT=open x hamster. | TOOL=general_chat | ARGS={'text': 'open x hamster.'} | RESULT=I can help you manage files, open websites, control settings pages, and chat with you.
+[2026-03-26 09:23:25] INPUT=open xnxx.com. | TOOL=general_chat | ARGS={'text': 'open xnxx.com.'} | RESULT=I can help you manage files, open websites, control settings pages, and chat with you.
+[2026-03-26 09:24:23] INPUT=open photo. | TOOL=general_chat | ARGS={'text': 'open photo.'} | RESULT=I can help you manage files, open websites, control settings pages, and chat with you.
+[2026-03-26 09:25:30] INPUT=open gmail. | TOOL=general_chat | ARGS={'text': 'open gmail.'} | RESULT=I can help you manage files, open websites, control settings pages, and chat with you.
+[2026-03-26 09:26:05] INPUT=open youtube and play ami kamal kumar. | TOOL=open_youtube | ARGS={'query': 'open  and  ami kamal kumar.'} | RESULT=Opening YouTube
+[2026-03-26 09:26:26] INPUT=open youtube and play anup kumar dhumal. | TOOL=open_youtube | ARGS={'query': 'open  and  anup kumar dhumal.'} | RESULT=Opening YouTube
+[2026-03-26 09:26:57] INPUT=open youtube and play mukammal dhumal. | TOOL=open_youtube | ARGS={'query': 'open  and  mukammal dhumal.'} | RESULT=Opening YouTube
+[2026-03-26 09:27:13] INPUT=kamal dhamaal beauty. | TOOL=general_chat | ARGS={'text': 'kamal dhamaal beauty.'} | RESULT=I can help you manage files, open websites, control settings pages, and chat with you.
+[2026-03-26 09:27:22] INPUT=youtube amol dhumal. | TOOL=open_youtube | ARGS={'query': 'amol dhumal.'} | RESULT=Opening YouTube
+[2026-03-26 09:29:01] INPUT=ramesh. | TOOL=general_chat | ARGS={'text': 'ramesh.'} | RESULT=I can help you manage files, open websites, control settings pages, and chat with you.
+[2026-03-26 09:29:58] INPUT=open animekai website and play onepiece episode 100 | TOOL=general_chat | ARGS={'text': 'open animekai website and play onepiece episode 100'} | RESULT=I can help you manage files, open websites, control settings pages, and chat with you.
+[2026-03-26 09:30:41] INPUT=hello jarvis. open spotify. | TOOL=open_spotify | ARGS={'query': 'hello jarvis. open .'} | RESULT=Opening Spotify
+[2026-03-26 09:31:52] INPUT=give your code | TOOL=general_chat | ARGS={'text': 'give your code'} | RESULT=I can help you manage files, open websites, control settings pages, and chat with you.
+[2026-03-26 12:45:41] INPUT=do u know about mersal movie ? | TOOL=general_chat | ARGS={'text': 'do u know about mersal movie ?'} | RESULT=I can help you manage files, open websites, control settings pages, and chat with you.
+[2026-03-26 12:46:18] INPUT=open email | TOOL=general_chat | ARGS={'text': 'open email'} | RESULT=I can help you manage files, open websites, control settings pages, and chat with you.
+[2026-03-26 12:46:32] INPUT=open wikipedia | TOOL=general_chat | ARGS={'text': 'open wikipedia'} | RESULT=I can help you manage files, open websites, control settings pages, and chat with you.
+[2026-03-26 12:46:54] INPUT=open youtube | TOOL=open_youtube | ARGS={'query': 'open'} | RESULT=Opening YouTube
+[2026-03-26 14:07:59] INPUT=open spotify | TOOL=open_spotify | ARGS={'query': 'open'} | RESULT=Opening Spotify
+[2026-03-26 15:44:19] INPUT=hi | TOOL=general_chat | ARGS={'text': 'hi'} | RESULT=Hello! How can I help you?
+[2026-03-26 15:44:22] INPUT=hello | TOOL=general_chat | ARGS={'text': 'hello'} | RESULT=Hi! What would you like me to do?
+[2026-03-26 15:44:33] INPUT=who are u | TOOL=general_chat | ARGS={'text': 'who are u'} | RESULT=I can help you manage files, open websites, control settings pages, and chat with you.
+[2026-03-26 15:44:46] INPUT=open file explorer | TOOL=open_file_explorer | ARGS={} | RESULT=Opening File Explorer
+[2026-03-26 15:45:01] INPUT=open chrome | TOOL=open_chrome | ARGS={} | RESULT=Bringing Chrome to front
+[2026-03-26 15:45:31] INPUT=open paint | TOOL=general_chat | ARGS={'text': 'open paint'} | RESULT=I can help you manage files, open websites, control settings pages, and chat with you.
+[2026-03-26 15:45:47] INPUT=open crs | TOOL=general_chat | ARGS={'text': 'open crs'} | RESULT=I can help you manage files, open websites, control settings pages, and chat with you.
+[2026-03-26 15:51:47] INPUT=hi | TOOL=general_chat | ARGS={'text': 'hi'} | RESULT=Hello! How can I help you?
+[2026-03-26 15:51:48] INPUT=hello | TOOL=general_chat | ARGS={'text': 'hello'} | RESULT=Hi! What would you like me to do?
+[2026-03-26 15:52:00] INPUT=how are u | TOOL=general_chat | ARGS={'text': 'how are u'} | RESULT=I can help you manage files, open websites, control settings pages, and chat with you.
+[2026-03-26 15:52:06] INPUT=what is agi | TOOL=general_chat | ARGS={'text': 'what is agi'} | RESULT=I can help you manage files, open websites, control settings pages, and chat with you.
+[2026-03-26 15:52:10] INPUT=what is ar | TOOL=general_chat | ARGS={'text': 'what is ar'} | RESULT=I can help you manage files, open websites, control settings pages, and chat with you.
+[2026-03-26 15:54:01] INPUT=hi, jarvis, how are you? | TOOL=general_chat | ARGS={'text': 'hi, jarvis, how are you?'} | RESULT=Hello! How can I help you?
+[2026-03-26 15:54:18] INPUT=open netflix. | TOOL=general_chat | ARGS={'text': 'open netflix.'} | RESULT=I can help you manage files, open websites, control settings pages, and chat with you.
+[2026-03-26 15:54:21] INPUT=since you. | TOOL=general_chat | ARGS={'text': 'since you.'} | RESULT=I can help you manage files, open websites, control settings pages, and chat with you.
+[2026-03-26 15:54:28] INPUT=model. | TOOL=general_chat | ARGS={'text': 'model.'} | RESULT=I can help you manage files, open websites, control settings pages, and chat with you.
+[2026-03-26 15:55:27] INPUT=ho | TOOL=general_chat | ARGS={'text': 'ho'} | RESULT=I can help you manage files, open websites, control settings pages, and chat with you.
+[2026-03-26 15:55:28] INPUT=jkjd | TOOL=general_chat | ARGS={'text': 'jkjd'} | RESULT=I can help you manage files, open websites, control settings pages, and chat with you.
+[2026-03-26 15:56:24] INPUT=hi | TOOL=general_chat | ARGS={'text': 'hi'} | RESULT=Hello! How can I help you?
+[2026-03-26 15:56:26] INPUT=hello | TOOL=general_chat | ARGS={'text': 'hello'} | RESULT=Hi! What would you like me to do?
+[2026-03-26 15:56:34] INPUT=how are u | TOOL=general_chat | ARGS={'text': 'how are u'} | RESULT=I can help you manage files, open websites, control settings pages, and chat with you.
+[2026-03-26 15:56:40] INPUT=daodownd | TOOL=general_chat | ARGS={'text': 'daodownd'} | RESULT=I can help you manage files, open websites, control settings pages, and chat with you.
+[2026-03-26 15:56:41] INPUT=fnafnweof | TOOL=general_chat | ARGS={'text': 'fnafnweof'} | RESULT=I can help you manage files, open websites, control settings pages, and chat with you.
+[2026-03-26 15:56:43] INPUT=jceufewifnweo | TOOL=general_chat | ARGS={'text': 'jceufewifnweo'} | RESULT=I can help you manage files, open websites, control settings pages, and chat with you.
+[2026-03-26 15:56:44] INPUT=nsdkjnew | TOOL=general_chat | ARGS={'text': 'nsdkjnew'} | RESULT=I can help you manage files, open websites, control settings pages, and chat with you.
+[2026-03-26 16:00:41] INPUT=cac | TOOL=general_chat | ARGS={'text': 'cac'} | RESULT=I can help you manage files, open websites, control settings pages, and chat with you.
+[2026-03-26 16:00:42] INPUT=cewcew | TOOL=general_chat | ARGS={'text': 'cewcew'} | RESULT=I can help you manage files, open websites, control settings pages, and chat with you.
+[2026-03-26 16:00:42] INPUT=cd | TOOL=general_chat | ARGS={'text': 'cd'} | RESULT=I can help you manage files, open websites, control settings pages, and chat with you.
+[2026-03-26 16:00:43] INPUT=ecewe | TOOL=general_chat | ARGS={'text': 'ecewe'} | RESULT=I can help you manage files, open websites, control settings pages, and chat with you.
+[2026-03-26 16:00:43] INPUT=ce | TOOL=general_chat | ARGS={'text': 'ce'} | RESULT=I can help you manage files, open websites, control settings pages, and chat with you.
+[2026-03-26 16:00:43] INPUT=ew | TOOL=general_chat | ARGS={'text': 'ew'} | RESULT=I can help you manage files, open websites, control settings pages, and chat with you.
+[2026-03-26 16:00:45] INPUT=we | TOOL=general_chat | ARGS={'text': 'we'} | RESULT=I can help you manage files, open websites, control settings pages, and chat with you.
+[2026-03-26 16:00:46] INPUT=ewew | TOOL=general_chat | ARGS={'text': 'ewew'} | RESULT=I can help you manage files, open websites, control settings pages, and chat with you.
+[2026-03-26 16:00:46] INPUT=ew | TOOL=general_chat | ARGS={'text': 'ew'} | RESULT=I can help you manage files, open websites, control settings pages, and chat with you.
+[2026-03-26 16:06:30] INPUT=hi | TOOL=general_chat | ARGS={'text': 'hi'} | RESULT=Hello! How can I help you?
+[2026-03-26 16:06:39] INPUT=how are u | TOOL=general_chat | ARGS={'text': 'how are u'} | RESULT=I can help you manage files, open websites, control settings pages, and chat with you.
+[2026-03-26 16:06:45] INPUT=hello | TOOL=general_chat | ARGS={'text': 'hello'} | RESULT=Hi! What would you like me to do?
+[2026-03-26 16:06:52] INPUT=open youtube | TOOL=open_youtube | ARGS={'query': 'open'} | RESULT=Opening YouTube
+[2026-03-26 16:07:08] INPUT=open spotify | TOOL=open_spotify | ARGS={'query': 'open'} | RESULT=Opening Spotify
+[2026-03-26 16:07:32] INPUT=open leo | TOOL=general_chat | ARGS={'text': 'open leo'} | RESULT=I can help you manage files, open websites, control settings pages, and chat with you.
+[2026-03-26 16:22:59] INPUT=open youtube | TOOL=open_youtube | ARGS={'query': 'open'} | RESULT=Opening YouTube
+[2026-03-26 16:24:54] INPUT=open youtube | TOOL=open_youtube | ARGS={'query': ''} | RESULT=Opening YouTube
+[2026-03-26 20:54:17] INPUT=hi | TOOL=general_chat | ARGS={'text': 'hi'} | RESULT=Hello! How can I help you?
+[2026-03-26 20:54:25] INPUT=open youtube | TOOL=open_youtube | ARGS={'query': ''} | RESULT=Opening YouTube
+[2026-03-26 20:57:24] INPUT=hi | TOOL=general_chat | ARGS={'text': 'hi'} | RESULT=Hello! How can I help you?
+[2026-03-26 20:57:32] INPUT=open spotify | TOOL=open_spotify | ARGS={'query': 'open'} | RESULT=Opening Spotify
+[2026-03-26 20:58:07] INPUT=hi | TOOL=general_chat | ARGS={'text': 'hi'} | RESULT=Hello! How can I help you?
+[2026-03-26 20:58:19] INPUT=can u speak | TOOL=general_chat | ARGS={'text': 'can u speak'} | RESULT=I can help you manage files, open websites, control settings pages, and chat with you.
+[2026-03-26 21:13:03] INPUT=hi | TOOL=general_chat | ARGS={'text': 'hi'} | RESULT=Hello! How can I help you?
+[2026-03-26 21:13:14] INPUT=hi | TOOL=general_chat | ARGS={'text': 'hi'} | RESULT=Hello! How can I help you?
+[2026-03-26 21:13:26] INPUT=how are u | TOOL=general_chat | ARGS={'text': 'how are u'} | RESULT=I can help you manage files, open websites, control settings pages, and chat with you.
+[2026-03-26 21:13:33] INPUT=kmdfb | TOOL=general_chat | ARGS={'text': 'kmdfb'} | RESULT=I can help you manage files, open websites, control settings pages, and chat with you.
+[2026-03-26 21:13:49] INPUT=open word | TOOL=general_chat | ARGS={'text': 'open word'} | RESULT=I can help you manage files, open websites, control settings pages, and chat with you.
+[2026-03-26 21:13:53] INPUT=open youtube | TOOL=open_youtube | ARGS={'query': ''} | RESULT=Opening YouTube
+[2026-03-26 21:14:02] INPUT=open spotify | TOOL=open_spotify | ARGS={'query': 'open'} | RESULT=Opening Spotify
+[2026-03-26 21:14:12] INPUT=open chrome | TOOL=open_chrome | ARGS={} | RESULT=Bringing Chrome to front
+[2026-03-26 21:16:55] INPUT=hi | TOOL=general_chat | ARGS={'text': 'hi'} | RESULT=Hello! How can I help you?
+[2026-03-26 21:17:05] INPUT=i help you. | TOOL=general_chat | ARGS={'text': 'i help you.'} | RESULT=I can help you manage files, open websites, control settings pages, and chat with you.
+[2026-03-26 21:17:16] INPUT=control settings pages. | TOOL=general_chat | ARGS={'text': 'control settings pages.'} | RESULT=I can help you manage files, open websites, control settings pages, and chat with you.
+[2026-03-26 21:17:52] INPUT=hello, how are you? | TOOL=general_chat | ARGS={'text': 'hello, how are you?'} | RESULT=Hi! What would you like me to do?
+[2026-03-26 21:18:03] INPUT=open youtube | TOOL=open_youtube | ARGS={'query': ''} | RESULT=Opening YouTube
+[2026-03-26 21:31:30] INPUT=open spotify. | TOOL=open_spotify | ARGS={'query': '.'} | RESULT=Opening Spotify
+[2026-03-26 21:31:52] INPUT=open ms word or word. | TOOL=general_chat | ARGS={'text': 'open ms word or word.'} | RESULT=I can help you manage files, open websites, control settings pages, and chat with you.
+[2026-03-26 21:32:03] INPUT=open websites, control settings pages. | TOOL=general_chat | ARGS={'text': 'open websites, control settings pages.'} | RESULT=I can help you manage files, open websites, control settings pages, and chat with you.
+[2026-03-26 21:32:11] INPUT=open websites contra. | TOOL=general_chat | ARGS={'text': 'open websites contra.'} | RESULT=I can help you manage files, open websites, control settings pages, and chat with you.
+[2026-03-26 21:32:26] INPUT=open. | TOOL=general_chat | ARGS={'text': 'open.'} | RESULT=I can help you manage files, open websites, control settings pages, and chat with you.
+[2026-03-26 21:32:54] INPUT=open. brave. | TOOL=general_chat | ARGS={'text': 'open. brave.'} | RESULT=I can help you manage files, open websites, control settings pages, and chat with you.
+[2026-03-26 21:33:06] INPUT=troll settings pages and chat with you. | TOOL=general_chat | ARGS={'text': 'troll settings pages and chat with you.'} | RESULT=I can help you manage files, open websites, control settings pages, and chat with you.
+[2026-03-26 21:33:23] INPUT=open edge. | TOOL=open_edge | ARGS={} | RESULT=Bringing Edge to front
+[2026-03-26 21:33:36] INPUT=open. brave. | TOOL=general_chat | ARGS={'text': 'open. brave.'} | RESULT=I can help you manage files, open websites, control settings pages, and chat with you.
+[2026-03-26 21:33:49] INPUT=websites control settings, pages and chat with you. | TOOL=general_chat | ARGS={'text': 'websites control settings, pages and chat with you.'} | RESULT=I can help you manage files, open websites, control settings pages, and chat with you.
+[2026-03-26 21:34:04] INPUT=open. brave. | TOOL=general_chat | ARGS={'text': 'open. brave.'} | RESULT=I can help you manage files, open websites, control settings pages, and chat with you.
+[2026-03-26 21:34:20] INPUT=brave. | TOOL=general_chat | ARGS={'text': 'brave.'} | RESULT=I can help you manage files, open websites, control settings pages, and chat with you.
+[2026-03-26 21:35:08] INPUT=open. brave. | TOOL=open_brave | ARGS={} | RESULT=Opening Brave
+[2026-03-26 21:35:24] INPUT=open word. | TOOL=open_brave | ARGS={} | RESULT=Opening Brave
+[2026-03-26 21:35:46] INPUT=open ms word. | TOOL=open_brave | ARGS={} | RESULT=Opening Brave
+[2026-03-26 21:36:16] INPUT=open word. | TOOL=open_word | ARGS={} | RESULT=Opening Word
+[2026-03-26 21:36:35] INPUT=open ms word. | TOOL=general_chat | ARGS={'text': 'open ms word.'} | RESULT=I can help you manage files, open websites, control settings pages, and chat with you.
+[2026-03-26 21:37:14] INPUT=open ms word. | TOOL=general_chat | ARGS={'text': 'open ms word.'} | RESULT=I can help you manage files, open websites, control settings pages, and chat with you.
+[2026-03-26 21:37:35] INPUT=open ms word. | TOOL=general_chat | ARGS={'text': 'open ms word.'} | RESULT=I can help you manage files, open websites, control settings pages, and chat with you.
+[2026-03-26 21:38:05] INPUT=open ms word. | TOOL=general_chat | ARGS={'text': 'open ms word.'} | RESULT=I can help you manage files, open websites, control settings pages, and chat with you.
+[2026-03-26 21:38:22] INPUT=open ms word. | TOOL=general_chat | ARGS={'text': 'open ms word.'} | RESULT=I can help you manage files, open websites, control settings pages, and chat with you.
+[2026-03-26 21:38:47] INPUT=open ms word. | TOOL=general_chat | ARGS={'text': 'open ms word.'} | RESULT=I can help you manage files, open websites, control settings pages, and chat with you.
+[2026-03-26 22:20:06] INPUT=Generate email to Test User | TOOL=generate_email | ARGS={"recipient": "Test User", "purpose": "testing"} | RESULT=Email generation failed: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2026-03-26 22:20:06] INPUT=Generate document: Test Document | TOOL=generate_document | ARGS={"title": "Test Document", "type": "report"} | RESULT=Document doc_806773 created successfully
+[2026-03-26 22:41:02] INPUT=Generate email to Test User | TOOL=generate_email | ARGS={"recipient": "Test User", "purpose": "testing"} | RESULT=Email generation failed: 'Client' object has no attribute 'generate'
+[2026-03-26 22:41:04] INPUT=Generate document: Test Document | TOOL=generate_document | ARGS={"title": "Test Document", "type": "report"} | RESULT=Document doc_64267 created successfully
+[2026-03-26 22:59:38] INPUT=Generate email to Test User | TOOL=generate_email | ARGS={"recipient": "Test User", "purpose": "testing"} | RESULT=Email generation failed: 'Client' object has no attribute 'generate'
+[2026-03-26 22:59:40] INPUT=Generate document: Test Document | TOOL=generate_document | ARGS={"title": "Test Document", "type": "report"} | RESULT=Document doc_180105 created successfully
+[2026-03-26 23:05:54] INPUT=open word and generate a report on climate change | TOOL=open_word | ARGS={} | RESULT=Opening Word
+[2026-03-26 23:07:53] INPUT=generate report on climate change | TOOL=general_chat | ARGS={'text': 'generate report on climate change'} | RESULT=I can help you manage files, open websites, control settings pages, and chat with you.
+[2026-03-26 23:51:32] INPUT=hi, jarvis. | TOOL=general_chat | ARGS={'text': 'hi, jarvis.'} | RESULT=Sorry, I am having trouble accessing the language model right now. Please try again in a moment.
+[2026-03-26 23:51:44] INPUT=who are you? | TOOL=general_chat | ARGS={'text': 'who are you?'} | RESULT=I am Jarvis AI, your personal assistant with safe general chat and web search support.
+[2026-03-26 23:52:08] INPUT=hi, jarvis. | TOOL=general_chat | ARGS={'text': 'hi, jarvis.'} | RESULT=Sorry, I am having trouble accessing the language model right now. Please try again in a moment.
+[2026-03-26 23:52:18] INPUT=i am having trouble accessing the language model right now. | TOOL=general_chat | ARGS={'text': 'i am having trouble accessing the language model right now.'} | RESULT=Sorry, I am having trouble accessing the language model right now. Please try again in a moment.
+[2026-03-26 23:52:35] INPUT=police ajit kumar. | TOOL=general_chat | ARGS={'text': 'police ajit kumar.'} | RESULT=Sorry, I am having trouble accessing the language model right now. Please try again in a moment.
+[2026-03-26 23:52:49] INPUT=who is ada? | TOOL=general_chat | ARGS={'text': 'who is ada?'} | RESULT=Sorry, I am having trouble accessing the language model right now. Please try again in a moment.
+[2026-03-26 23:52:59] INPUT=accessing the language model right now. | TOOL=general_chat | ARGS={'text': 'accessing the language model right now.'} | RESULT=Sorry, I am having trouble accessing the language model right now. Please try again in a moment.
+[2026-03-26 23:53:10] INPUT=who are the cast of avengers? | TOOL=general_chat | ARGS={'text': 'who are the cast of avengers?'} | RESULT=Sorry, I am having trouble accessing the language model right now. Please try again in a moment.
+[2026-03-26 23:59:55] INPUT=hi, jarvis. | TOOL=general_chat | ARGS={'text': 'hi, jarvis.'} | RESULT=I’m having a model issue; try this web search instead: https://www.google.com/search?q=hi%2C%20jarvis.
+[2026-03-27 00:00:13] INPUT=ww.google.com slash search question mark q equal sign high percent sign 2c percent sign 20 jarvis. | TOOL=general_chat | ARGS={'text': 'ww.google.com slash search question mark q equal sign high percent sign 2c percent sign 20 jarvis.'} | RESULT=Searching the web for: ww.google.com slash  question mark q equal sign high percent sign 2c percent sign 20 jarvis.
+[2026-03-27 00:00:30] INPUT=browse lana del rey songs. | TOOL=open_search | ARGS={'query': 'lana del rey songs.'} | RESULT=Opened browser search for 'lana del rey songs.'.
+[2026-03-27 00:00:42] INPUT=search ajit kumar. | TOOL=open_search | ARGS={'query': 'ajit kumar.'} | RESULT=Opened browser search for 'ajit kumar.'.
+[2026-03-27 00:00:57] INPUT=what's the weather today in chennai? | TOOL=open_search | ARGS={'query': 'weather today'} | RESULT=Opened browser search for 'weather today'.
+[2026-03-27 00:01:21] INPUT=who are you? | TOOL=general_chat | ARGS={'text': 'who are you?'} | RESULT=I am Jarvis AI, your personal assistant with safe general chat and web search support.
+[2026-03-27 00:01:35] INPUT=how are you? | TOOL=general_chat | ARGS={'text': 'how are you?'} | RESULT=I am doing well, thanks! I am ready to assist you.
+[2026-03-27 00:01:46] INPUT=what is 10 + 2? | TOOL=general_chat | ARGS={'text': 'what is 10 + 2?'} | RESULT=I’m having a model issue; try this web search instead: https://www.google.com/search?q=what%20is%2010%20%2B%202%3F
+[2026-03-27 00:02:23] INPUT=for the cast of avengers movie. | TOOL=general_chat | ARGS={'text': 'for the cast of avengers movie.'} | RESULT=I can’t reach the model right now, but you can try this search: https://www.google.com/search?q=for%20the%20cast%20of%20avengers%20movie.
+[2026-03-27 00:04:01] INPUT=browse the cast of avengers movie. | TOOL=open_search | ARGS={'query': 'the cast of avengers movie.'} | RESULT=Opened browser search for 'the cast of avengers movie.'.
+[2026-03-27 00:06:58] INPUT=hi, jarvis. | TOOL=general_chat | ARGS={'text': 'hi, jarvis.'} | RESULT=I’m having a model issue; try this web search instead: https://www.google.com/search?q=hi%2C%20jarvis.
+[2026-03-27 00:07:19] INPUT=what is 10 + 2? | TOOL=general_chat | ARGS={'text': 'what is 10 + 2?'} | RESULT=Sorry, I am having trouble accessing the language model right now. Please try again in a moment.
+[2026-03-27 00:10:30] INPUT=what is a? | TOOL=general_chat | ARGS={'text': 'what is a?'} | RESULT=Sorry, I am having trouble accessing the language model right now. Please try again in a moment.
+[2026-03-27 00:11:08] INPUT=what is 10 + 2? | TOOL=general_chat | ARGS={'text': 'what is 10 + 2?'} | RESULT=Sorry, I am having trouble accessing the language model right now. Please try again in a moment.
+[2026-03-27 00:11:19] INPUT=define a i. | TOOL=general_chat | ARGS={'text': 'define a i.'} | RESULT=I’m having a model issue; try this web search instead: https://www.google.com/search?q=define%20a%20i.
+[2026-03-27 00:20:07] INPUT=what is 10+2 | TOOL=general_chat | ARGS={'text': 'what is 10+2'} | RESULT=10+2 = 12
+[2026-03-27 00:20:18] INPUT=what is 11+3 | TOOL=general_chat | ARGS={'text': 'what is 11+3'} | RESULT=11+3 = 14
+[2026-03-27 00:20:28] INPUT=what is 10-2 | TOOL=general_chat | ARGS={'text': 'what is 10-2'} | RESULT=10-2 = 8
+[2026-03-27 00:20:47] INPUT=what is 8/2 | TOOL=general_chat | ARGS={'text': 'what is 8/2'} | RESULT=8/2 = 4.0
+[2026-03-27 00:20:55] INPUT=what is ai | TOOL=general_chat | ARGS={'text': 'what is ai'} | RESULT=Sorry, I am having trouble accessing the language model right now. Please try again in a moment.
+[2026-03-27 00:21:34] INPUT=what is the weather today | TOOL=open_search | ARGS={'query': 'weather today'} | RESULT=Opened browser search for 'weather today'.
+[2026-03-27 00:22:11] INPUT=what is the weather in chennai today | TOOL=open_search | ARGS={'query': 'weather in chennai today'} | RESULT=Opened browser search for 'weather in chennai today'.
+[2026-03-27 00:23:21] INPUT=who is chief minister of kerala | TOOL=general_chat | ARGS={'text': 'who is chief minister of kerala'} | RESULT=I can’t reach the model right now, but you can try this search: https://www.google.com/search?q=who%20is%20chief%20minister%20of%20kerala
+[2026-03-27 00:32:12] INPUT=hi | TOOL=general_chat | ARGS={'text': 'hi'} | RESULT=Hello, I am Jarvis AI. How can I help you?
+[2026-03-27 00:32:24] INPUT=open gmail | TOOL=general_chat | ARGS={'text': 'open gmail'} | RESULT=I’m having a model issue; try this web search instead: https://www.google.com/search?q=open%20gmail
+[2026-03-27 00:32:54] INPUT=who is cm of kerala | TOOL=general_chat | ARGS={'text': 'who is cm of kerala'} | RESULT=As of 2026, the Chief Minister of Kerala is Pinarayi Vijayan.
+[2026-03-27 00:33:29] INPUT=who is cm of tamil nadu | TOOL=general_chat | ARGS={'text': 'who is cm of tamil nadu'} | RESULT=I can’t reach the model right now, but you can try this search: https://www.google.com/search?q=who%20is%20cm%20of%20tamil%20nadu
+[2026-03-27 00:33:53] INPUT=who is pm of india | TOOL=general_chat | ARGS={'text': 'who is pm of india'} | RESULT=As of 2026, the Prime Minister of India is Narendra Modi.
+[2026-03-27 00:35:00] INPUT=create new folder hello | TOOL=create_folder | ARGS={'folder_name': 'hello', 'location': 'jarvis'} | RESULT=Created folder: C:\Users\Admin\Desktop\JarvisWorkspace\hello
+[2026-03-27 00:36:36] INPUT=create new folder anbu in downloads | TOOL=create_folder | ARGS={'folder_name': 'anbu in downloads', 'location': 'jarvis'} | RESULT=Created folder: C:\Users\Admin\Desktop\JarvisWorkspace\anbu in downloads
+[2026-03-27 00:37:56] INPUT=what is ai | TOOL=general_chat | ARGS={'text': 'what is ai'} | RESULT=AI (artificial intelligence) means machines that can perform tasks that normally require human intelligence, such as understanding language, recognising patterns, and making decisions.
+[2026-03-27 00:38:10] INPUT=what is ml | TOOL=general_chat | ARGS={'text': 'what is ml'} | RESULT=Sorry, I am having trouble accessing the language model right now. Please try again in a moment.
+[2026-03-27 00:43:30] INPUT=who is cm of tamilnadu | TOOL=open_search | ARGS={'query': 'who is cm of tamilnadu'} | RESULT=Opened browser search for 'who is cm of tamilnadu'.
+[2026-03-27 00:43:40] INPUT=what is ml | TOOL=open_search | ARGS={'query': 'what is ml'} | RESULT=Opened browser search for 'what is ml'.
+[2026-03-27 00:44:12] INPUT=who is best footballer ronaldo or messi | TOOL=open_search | ARGS={'query': 'who is best footballer ronaldo or messi'} | RESULT=Opened browser search for 'who is best footballer ronaldo or messi'.
+[2026-03-27 00:44:39] INPUT=create new folder called anbu in downloads | TOOL=create_folder | ARGS={'folder_name': 'anbu', 'location': 'downloads'} | RESULT=Created folder: C:\Users\Admin\Downloads\anbu
+[2026-03-27 00:45:09] INPUT=create new folder called leo in desktop | TOOL=create_folder | ARGS={'folder_name': 'leo', 'location': 'desktop'} | RESULT=Created folder: C:\Users\Admin\Desktop\leo
+[2026-03-27 00:48:24] INPUT=go to chrome and search. | TOOL=general_chat | ARGS={'text': 'go to chrome and search.'} | RESULT=Searching the web for: go to chrome and .
+[2026-03-27 00:48:35] INPUT=go to chrome and search vijay. | TOOL=general_chat | ARGS={'text': 'go to chrome and search vijay.'} | RESULT=Searching the web for: go to chrome and  vijay.
+[2026-03-27 00:49:12] INPUT=open edge. | TOOL=open_edge | ARGS={} | RESULT=Bringing Edge to front
+[2026-03-27 00:49:31] INPUT=open paint. | TOOL=open_paint | ARGS={} | RESULT=Opening Paint
+[2026-03-27 00:49:45] INPUT=browse change gpt. | TOOL=open_search | ARGS={'query': 'change gpt.'} | RESULT=Opened browser search for 'change gpt.'.
+[2026-03-27 00:50:16] INPUT=who is leo | TOOL=open_search | ARGS={'query': 'who is leo'} | RESULT=Opened browser search for 'who is leo'.
+[2026-03-27 00:53:35] INPUT=delete the folder unbold in jarvis workspace. | TOOL=general_chat | ARGS={'text': 'delete the folder unbold in jarvis workspace.'} | RESULT=I’m having a model issue; try this web search instead: https://www.google.com/search?q=delete%20the%20folder%20unbold%20in%20jarvis%20workspace.
+[2026-03-27 00:54:03] INPUT=delete the folder leo in desktop. | TOOL=general_chat | ARGS={'text': 'delete the folder leo in desktop.'} | RESULT=I’m having a model issue; try this web search instead: https://www.google.com/search?q=delete%20the%20folder%20leo%20in%20desktop.
+[2026-03-27 05:40:16] INPUT=who is better footballer messi or ronaldo | TOOL=general_chat | ARGS={'text': 'who is better footballer messi or ronaldo'} | RESULT=I can’t reach the model right now, but you can try this search: https://www.google.com/search?q=who%20is%20better%20footballer%20messi%20or%20ronaldo
+[2026-03-27 05:49:50] INPUT=who is better footballer messi or ronaldo | TOOL=general_chat | ARGS={'text': 'who is better footballer messi or ronaldo'} | RESULT=I can’t reach the model right now, but you can try this search: https://www.google.com/search?q=who%20is%20better%20footballer%20messi%20or%20ronaldo
+[2026-03-27 05:51:45] INPUT=who is better footballer messi or ronaldo? | TOOL=general_chat | ARGS={'text': 'who is better footballer messi or ronaldo?'} | RESULT=I can’t reach the model right now, but you can try this search: https://www.google.com/search?q=who%20is%20better%20footballer%20messi%20or%20ronaldo%3F
+[2026-03-27 05:59:56] INPUT=who is better footballer messi or ronaldo? | TOOL=general_chat | ARGS={'text': 'who is better footballer messi or ronaldo?'} | RESULT=I can’t reach the model right now, but you can try this search: https://www.google.com/search?q=who%20is%20better%20footballer%20messi%20or%20ronaldo%3F
+[2026-03-27 06:03:46] INPUT=who is better footballer messi or ronaldo? | TOOL=general_chat | ARGS={'text': 'who is better footballer messi or ronaldo?'} | RESULT=I can’t reach the model right now, but you can try this search: https://www.google.com/search?q=who%20is%20better%20footballer%20messi%20or%20ronaldo%3F
+[2026-03-27 06:06:26] INPUT=who is better footballer messi or ronaldo? | TOOL=general_chat | ARGS={'text': 'who is better footballer messi or ronaldo?'} | RESULT=I can’t reach the model right now, but you can try this search: https://www.google.com/search?q=who%20is%20better%20footballer%20messi%20or%20ronaldo%3F
+[2026-03-27 11:31:00] INPUT=can u browse who is lana del ray | TOOL=general_chat | ARGS={'text': 'can u browse who is lana del ray'} | RESULT=Searching the web for: can u  who is lana del ray
+[2026-03-27 11:31:28] INPUT=search amazing places in chennai | TOOL=open_search | ARGS={'query': 'amazing places in chennai'} | RESULT=Opened browser search for 'amazing places in chennai'.
+[2026-03-27 11:32:11] INPUT=hey jarvis | TOOL=general_chat | ARGS={'text': 'hey jarvis'} | RESULT=I can help by searching this on the web: https://www.google.com/search?q=hey%20jarvis
+[2026-03-27 11:32:26] INPUT=hi | TOOL=general_chat | ARGS={'text': 'hi'} | RESULT=Hello, I am Jarvis AI. How can I help you?
+[2026-03-27 11:32:37] INPUT=good afternoon | TOOL=general_chat | ARGS={'text': 'good afternoon'} | RESULT=I can help by searching this on the web: https://www.google.com/search?q=good%20afternoon
+[2026-03-27 11:35:27] INPUT=hey jarvis | TOOL=general_chat | ARGS={'text': 'hey jarvis'} | RESULT=Hello, I am Jarvis AI. How can I help you?
+[2026-03-27 11:36:17] INPUT=what is the weather today in chennai | TOOL=open_search | ARGS={'query': 'weather today'} | RESULT=Opened browser search for 'weather today'.
+[2026-03-27 11:36:45] INPUT=open bluetooth settings | TOOL=open_bluetooth_settings | ARGS={} | RESULT=Opened Bluetooth settings.
+[2026-03-27 11:37:05] INPUT=open calculator | TOOL=open_calculator | ARGS={} | RESULT=Opening Calculator
+[2026-03-27 11:53:11] INPUT=create folder jarvis in documents | TOOL=create_folder | ARGS={'folder_name': 'jarvis', 'location': 'documents'} | RESULT=Folder already exists: C:\Users\Admin\OneDrive\Documents\jarvis
+[2026-03-27 11:53:34] INPUT=create folder inovstors in downloads | TOOL=create_folder | ARGS={'folder_name': 'inovstors', 'location': 'downloads'} | RESULT=Created folder: C:\Users\Admin\Downloads\inovstors
+[2026-03-27 11:54:15] INPUT=open folder c:\users\admin\downloads\inovstors | TOOL=open_folder | ARGS={'path': 'c:\\users\\admin\\downloads\\inovstors'} | RESULT=Opened folder: C:\Users\Admin\Downloads\inovstors
+[2026-03-27 12:02:21] INPUT=hi, jarvis. | TOOL=general_chat | ARGS={'text': 'hi, jarvis.'} | RESULT=I can help by searching this on the web: https://www.google.com/search?q=hi%2C%20jarvis.
+[2026-03-27 12:03:09] INPUT=open notepad. | TOOL=open_notepad | ARGS={} | RESULT=Bringing Notepad to front
+[2026-03-27 12:03:14] INPUT=hi. | TOOL=general_chat | ARGS={'text': 'hi.'} | RESULT=I can help by searching this on the web: https://www.google.com/search?q=hi.
+[2026-03-27 12:07:48] INPUT=create folder tarun in documents | TOOL=create_folder | ARGS={'folder_name': 'tarun', 'location': 'documents'} | RESULT=Created folder: C:\Users\Admin\OneDrive\Documents\tarun
+[2026-03-27 12:14:11] INPUT=create folder anbu in documents | TOOL=create_folder | ARGS={'folder_name': 'anbu', 'location': 'documents'} | RESULT=Created folder: C:\Users\Admin\OneDrive\Documents\anbu
+[2026-03-27 12:14:58] INPUT=browse ajith kumar | TOOL=open_search | ARGS={'query': 'ajith kumar'} | RESULT=Opened browser search for 'ajith kumar'.
+[2026-03-27 12:16:18] INPUT=okay, notepad. open chrome. | TOOL=open_chrome | ARGS={} | RESULT=Bringing Chrome to front
+[2026-03-27 12:16:26] INPUT=hey can you please open the chrome? | TOOL=general_chat | ARGS={'text': 'hey can you please open the chrome?'} | RESULT=I can help by searching this on the web: https://www.google.com/search?q=hey%20can%20you%20please%20open%20the%20chrome%3F
+[2026-03-27 12:19:28] INPUT=open bluetooth settings | TOOL=open_bluetooth_settings | ARGS={} | RESULT=Opened Bluetooth settings.
+[2026-03-27 12:20:33] INPUT=list large files | TOOL=scan_large_files | ARGS={'location': 'downloads', 'min_size_mb': 100} | RESULT=No files larger than 100MB found in downloads.
+[2026-03-27 12:20:49] INPUT=list unused files | TOOL=scan_old_files | ARGS={'location': 'downloads', 'older_than_days': 90} | RESULT=No files older than 90 days found in downloads.
+[2026-03-27 12:21:05] INPUT=list junk files | TOOL=scan_temp_files | ARGS={'location': 'downloads'} | RESULT=No temporary/junk files found in downloads.
+[2026-03-27 12:21:18] INPUT=list unused files in downloads | TOOL=scan_old_files | ARGS={'location': 'downloads', 'older_than_days': 90} | RESULT=No files older than 90 days found in downloads.
+[2026-03-27 12:23:07] INPUT=show small files in downloads | TOOL=general_chat | ARGS={'text': 'show small files in downloads'} | RESULT=I can help by searching this on the web: https://www.google.com/search?q=show%20small%20files%20in%20downloads
+[2026-03-27 12:23:34] INPUT=list small files in downloads | TOOL=general_chat | ARGS={'text': 'list small files in downloads'} | RESULT=I can help by searching this on the web: https://www.google.com/search?q=list%20small%20files%20in%20downloads
+[2026-03-27 12:23:53] INPUT=list unused files | TOOL=scan_old_files | ARGS={'location': 'downloads', 'older_than_days': 90} | RESULT=No files older than 90 days found in downloads.
+[2026-03-27 12:25:01] INPUT=open notepad | TOOL=open_notepad | ARGS={} | RESULT=Bringing Notepad to front
+[2026-03-27 12:25:27] INPUT=open calculator | TOOL=open_calculator | ARGS={} | RESULT=Opening Calculator
+[2026-03-27 12:25:48] INPUT=open browser. | TOOL=general_chat | ARGS={'text': 'open browser.'} | RESULT=Searching the web for: open r.
+[2026-03-27 12:25:59] INPUT=open youtube. | TOOL=open_youtube | ARGS={'query': '.'} | RESULT=Opening YouTube
+[2026-03-27 12:26:46] INPUT=create folder sam in downloads | TOOL=create_folder | ARGS={'folder_name': 'sam', 'location': 'downloads'} | RESULT=Created folder: C:\Users\Admin\Downloads\sam
+[2026-03-27 12:27:07] INPUT=play aluma doluma. | TOOL=general_chat | ARGS={'text': 'play aluma doluma.'} | RESULT=I can help by searching this on the web: https://www.google.com/search?q=play%20aluma%20doluma.
+[2026-03-27 12:27:25] INPUT=play aluma dalama song in youtube. | TOOL=open_youtube | ARGS={'query': 'aluma dalama song in .'} | RESULT=Opening YouTube
+[2026-03-27 12:30:36] INPUT=open notepad. | TOOL=open_notepad | ARGS={} | RESULT=Bringing Notepad to front
+[2026-03-27 12:32:33] INPUT=hey jarvis | TOOL=general_chat | ARGS={'text': 'hey jarvis'} | RESULT=Hello, I am Jarvis AI. How can I help you?
+[2026-03-27 12:36:21] INPUT=browse sreesanth | TOOL=open_search | ARGS={'query': 'sreesanth'} | RESULT=Opened browser search for 'sreesanth'.
+[2026-03-27 12:36:30] INPUT=search anbu | TOOL=open_search | ARGS={'query': 'anbu'} | RESULT=Opened browser search for 'anbu'.
+[2026-03-27 12:36:48] INPUT=open calculator. | TOOL=open_calculator | ARGS={} | RESULT=Opening Calculator
+[2026-03-27 12:37:20] INPUT=open gmail | TOOL=general_chat | ARGS={'text': 'open gmail'} | RESULT=I can help by searching this on the web: https://www.google.com/search?q=open%20gmail
+[2026-03-27 12:37:44] INPUT=compose email | TOOL=general_chat | ARGS={'text': 'compose email'} | RESULT=I can help by searching this on the web: https://www.google.com/search?q=compose%20email
+[2026-03-27 12:38:41] INPUT=compose gmail | TOOL=general_chat | ARGS={'text': 'compose gmail'} | RESULT=I can help by searching this on the web: https://www.google.com/search?q=compose%20gmail
+[2026-03-27 12:39:47] INPUT=open email | TOOL=general_chat | ARGS={'text': 'open email'} | RESULT=I can help by searching this on the web: https://www.google.com/search?q=open%20email
+[2026-03-27 12:43:46] INPUT=open gmail | TOOL=general_chat | ARGS={'text': 'open gmail'} | RESULT=I can help by searching this on the web: https://www.google.com/search?q=open%20gmail
+[2026-03-27 12:48:55] INPUT=open gmail | TOOL=open_gmail_compose | ARGS={} | RESULT=Opened Gmail compose window.
+[2026-03-27 12:51:30] INPUT=browse ajith kumar | TOOL=open_search | ARGS={'query': 'ajith kumar'} | RESULT=Opened browser search for 'ajith kumar'.
+[2026-03-27 12:52:51] INPUT=open bluetooth. | TOOL=general_chat | ARGS={'text': 'open bluetooth.'} | RESULT=I can help by searching this on the web: https://www.google.com/search?q=open%20bluetooth.
+[2026-03-27 12:53:08] INPUT=open bluetooth settings. | TOOL=open_bluetooth_settings | ARGS={} | RESULT=Opened Bluetooth settings.
+[2026-03-27 12:54:12] INPUT=open cocomelon in youtube | TOOL=open_youtube | ARGS={'query': 'cocomelon in'} | RESULT=Opening YouTube
+[2026-03-27 12:55:19] INPUT=open cocomelon in youtube | TOOL=open_youtube | ARGS={'query': 'cocomelon'} | RESULT=Opening YouTube
+[2026-03-27 12:55:34] INPUT=open coco melon in youtube. | TOOL=open_youtube | ARGS={'query': 'coco melon  .'} | RESULT=Opening YouTube
+[2026-03-27 12:55:46] INPUT=open aluma doluma in youtube. | TOOL=open_youtube | ARGS={'query': 'aluma doluma  .'} | RESULT=Opening YouTube
+[2026-03-27 13:01:52] INPUT=play aaluma doluma in youtube | TOOL=open_youtube | ARGS={'query': 'aaluma doluma'} | RESULT=Opening YouTube
+[2026-03-27 13:02:17] INPUT=create folder eraianbu in downloads | TOOL=create_folder | ARGS={'folder_name': 'eraianbu', 'location': 'downloads'} | RESULT=Created folder: C:\Users\Admin\Downloads\eraianbu
+[2026-03-27 13:02:29] INPUT=open c:\users\admin\downloads\eraianbu | TOOL=general_chat | ARGS={'text': 'open c:\\users\\admin\\downloads\\eraianbu'} | RESULT=I can help by searching this on the web: https://www.google.com/search?q=open%20c%3A%5Cusers%5Cadmin%5Cdownloads%5Ceraianbu
+[2026-03-27 13:04:46] INPUT=open notepad. | TOOL=open_notepad | ARGS={} | RESULT=Bringing Notepad to front
+[2026-03-27 13:19:20] INPUT=open notepad | TOOL=open_notepad | ARGS={} | RESULT=Bringing Notepad to front
+[2026-03-27 13:19:39] INPUT=play kissik in youtube | TOOL=open_youtube | ARGS={'query': 'kissik'} | RESULT=Opening YouTube
+[2026-03-27 13:21:28] INPUT=open gmail | TOOL=open_gmail_compose | ARGS={} | RESULT=Opened Gmail compose window.
+[2026-03-27 13:22:52] INPUT=create folder bhuvanesh in documents | TOOL=create_folder | ARGS={'folder_name': 'bhuvanesh', 'location': 'documents'} | RESULT=Created folder: C:\Users\Admin\OneDrive\Documents\bhuvanesh
+[2026-03-27 13:23:10] INPUT=open folder c:\users\admin\onedrive\documents\bhuvanesh | TOOL=open_folder | ARGS={'path': 'c:\\users\\admin\\onedrive\\documents\\bhuvanesh'} | RESULT=Opened folder: C:\Users\Admin\OneDrive\Documents\bhuvanesh
+[2026-03-27 13:23:38] INPUT=modern development. | TOOL=general_chat | ARGS={'text': 'modern development.'} | RESULT=I can help by searching this on the web: https://www.google.com/search?q=modern%20development.
+[2026-03-27 13:23:59] INPUT=open bluetooth settings. | TOOL=open_bluetooth_settings | ARGS={} | RESULT=Opened Bluetooth settings.
+[2026-03-27 13:25:44] INPUT=create file python.txt in documents | TOOL=general_chat | ARGS={'text': 'create file python.txt in documents'} | RESULT=I can help by searching this on the web: https://www.google.com/search?q=create%20file%20python.txt%20in%20documents
+[2026-03-27 13:44:57] INPUT=create folder baal in downloads | TOOL=create_folder | ARGS={'folder_name': 'baal', 'location': 'downloads'} | RESULT=Created folder: C:\Users\Admin\Downloads\baal
+[2026-03-27 13:45:09] INPUT=open folder c:\users\admin\downloads\baal | TOOL=open_folder | ARGS={'path': 'c:\\users\\admin\\downloads\\baal'} | RESULT=Opened folder: C:\Users\Admin\Downloads\baal
+[2026-03-27 13:45:24] INPUT=open youtube and play zindaagi | TOOL=open_youtube | ARGS={'query': 'and  zdaagi'} | RESULT=Opening YouTube
+[2026-03-27 13:45:48] INPUT=open bluetooth settings. | TOOL=open_bluetooth_settings | ARGS={} | RESULT=Opened Bluetooth settings.
+[2026-03-27 13:58:14] INPUT=can you open bluetooth settings? | TOOL=open_bluetooth_settings | ARGS={} | RESULT=Opened Bluetooth settings.
+[2026-03-27 14:06:25] INPUT=search ajit kumar. | TOOL=open_search | ARGS={'query': 'ajit kumar.'} | RESULT=Opened browser search for 'ajit kumar.'.
+[2026-03-27 14:06:53] INPUT=search mia khalifa. | TOOL=open_search | ARGS={'query': 'mia khalifa.'} | RESULT=Opened browser search for 'mia khalifa.'.
+[2026-03-27 14:07:14] INPUT=open notepad. | TOOL=open_notepad | ARGS={} | RESULT=Bringing Notepad to front
+[2026-03-27 14:07:38] INPUT=open. brave. | TOOL=general_chat | ARGS={'text': 'open. brave.'} | RESULT=I can help by searching this on the web: https://www.google.com/search?q=open.%20brave.
+[2026-03-27 14:12:24] INPUT=create folder dharun in documents | TOOL=create_folder | ARGS={'folder_name': 'dharun', 'location': 'documents'} | RESULT=Created folder: C:\Users\Admin\OneDrive\Documents\dharun
+[2026-03-27 14:12:41] INPUT=open folder c:\users\admin\onedrive\documents\dharun | TOOL=open_folder | ARGS={'path': 'c:\\users\\admin\\onedrive\\documents\\dharun'} | RESULT=Opened folder: C:\Users\Admin\OneDrive\Documents\dharun
+[2026-03-27 14:13:01] INPUT=open notepad. | TOOL=open_notepad | ARGS={} | RESULT=Bringing Notepad to front
+[2026-03-27 14:13:28] INPUT=play pavalla malli in youtub | TOOL=general_chat | ARGS={'text': 'play pavalla malli in youtub'} | RESULT=I can help by searching this on the web: https://www.google.com/search?q=play%20pavalla%20malli%20in%20youtub
+[2026-03-27 14:13:49] INPUT=play cocomelon in youtube | TOOL=open_youtube | ARGS={'query': 'cocomelon'} | RESULT=Opening YouTube
+[2026-03-27 14:16:32] INPUT=open youtube | TOOL=open_youtube | ARGS={'query': ''} | RESULT=Opening YouTube
+[2026-03-27 14:16:44] INPUT=play music on youtube. | TOOL=open_youtube | ARGS={'query': 'music .'} | RESULT=Opening YouTube
+[2026-03-27 14:17:08] INPUT=open bluetooth settings | TOOL=open_bluetooth_settings | ARGS={} | RESULT=Opened Bluetooth settings.
+[2026-03-27 14:17:40] INPUT=create folder praneeth in documents | TOOL=create_folder | ARGS={'folder_name': 'praneeth', 'location': 'documents'} | RESULT=Created folder: C:\Users\Admin\OneDrive\Documents\praneeth
+[2026-03-27 14:17:59] INPUT=open folder c:\users\admin\onedrive\documents\praneeth | TOOL=open_folder | ARGS={'path': 'c:\\users\\admin\\onedrive\\documents\\praneeth'} | RESULT=Opened folder: C:\Users\Admin\OneDrive\Documents\praneeth
+[2026-03-27 14:21:39] INPUT=create folder jarvo in documents | TOOL=create_folder | ARGS={'folder_name': 'jarvo', 'location': 'documents'} | RESULT=Created folder: C:\Users\Admin\OneDrive\Documents\jarvo
+[2026-03-27 14:21:50] INPUT=open folder c:\users\admin\onedrive\documents\jarvo | TOOL=open_folder | ARGS={'path': 'c:\\users\\admin\\onedrive\\documents\\jarvo'} | RESULT=Opened folder: C:\Users\Admin\OneDrive\Documents\jarvo
+[2026-03-27 14:22:05] INPUT=play cocomelon in youtube | TOOL=open_youtube | ARGS={'query': 'cocomelon'} | RESULT=Opening YouTube
+[2026-03-27 14:22:21] INPUT=open notepad. | TOOL=open_notepad | ARGS={} | RESULT=Bringing Notepad to front
+[2026-03-27 14:23:57] INPUT=browse translate | TOOL=open_search | ARGS={'query': 'translate'} | RESULT=Opened browser search for 'translate'.
+[2026-03-27 14:24:47] INPUT=delete folder in documents. | TOOL=general_chat | ARGS={'text': 'delete folder in documents.'} | RESULT=I can help by searching this on the web: https://www.google.com/search?q=delete%20folder%20in%20documents.
+[2026-03-27 14:25:06] INPUT=delete folder jarvo in documents | TOOL=delete_folder | ARGS={'name': 'jarvo', 'location': 'documents'} | RESULT=Failed to delete folder: [WinError 5] Access is denied: 'C:\\Users\\Admin\\OneDrive\\Documents\\jarvo'
+[2026-03-27 14:26:30] INPUT=nargis i. | TOOL=general_chat | ARGS={'text': 'nargis i.'} | RESULT=I can help by searching this on the web: https://www.google.com/search?q=nargis%20i.
+[2026-03-27 14:26:47] INPUT=jagdish, open google. | TOOL=general_chat | ARGS={'text': 'jagdish, open google.'} | RESULT=I can help by searching this on the web: https://www.google.com/search?q=jagdish%2C%20open%20google.
+[2026-03-27 14:27:13] INPUT=open youtube and play kokum a lot. | TOOL=open_youtube | ARGS={'query': 'and  kokum a lot.'} | RESULT=Opening YouTube
+[2026-03-27 14:28:29] INPUT=open notepad. | TOOL=open_notepad | ARGS={} | RESULT=Bringing Notepad to front
+[2026-03-27 14:28:41] INPUT=open youtube and play pokemon. | TOOL=open_youtube | ARGS={'query': 'and  pokemon.'} | RESULT=Opening YouTube
+[2026-03-27 14:29:13] INPUT=create folder aids in documents | TOOL=create_folder | ARGS={'folder_name': 'aids', 'location': 'documents'} | RESULT=Created folder: C:\Users\Admin\OneDrive\Documents\aids
+[2026-03-27 14:29:27] INPUT=open folder c:\users\admin\onedrive\documents\aids | TOOL=open_folder | ARGS={'path': 'c:\\users\\admin\\onedrive\\documents\\aids'} | RESULT=Opened folder: C:\Users\Admin\OneDrive\Documents\aids
+[2026-03-27 14:36:12] INPUT=open notepad. | TOOL=open_notepad | ARGS={} | RESULT=Bringing Notepad to front
+[2026-03-27 14:36:27] INPUT=play cocomelon in youtube | TOOL=open_youtube | ARGS={'query': 'cocomelon'} | RESULT=Opening YouTube
+[2026-03-27 14:37:01] INPUT=create folder gokula in documents | TOOL=create_folder | ARGS={'folder_name': 'gokula', 'location': 'documents'} | RESULT=Created folder: C:\Users\Admin\OneDrive\Documents\gokula
+[2026-03-27 14:37:13] INPUT=open folder c:\users\admin\onedrive\documents\gokula | TOOL=open_folder | ARGS={'path': 'c:\\users\\admin\\onedrive\\documents\\gokula'} | RESULT=Opened folder: C:\Users\Admin\OneDrive\Documents\gokula
+[2026-03-27 14:39:06] INPUT=browse ajith kumar | TOOL=open_search | ARGS={'query': 'ajith kumar'} | RESULT=Opened browser search for 'ajith kumar'.
+[2026-03-27 14:41:51] INPUT=open notepad. | TOOL=open_notepad | ARGS={} | RESULT=Bringing Notepad to front
+[2026-03-27 14:42:06] INPUT=play cocomelon in youtube | TOOL=open_youtube | ARGS={'query': 'cocomelon'} | RESULT=Opening YouTube
+[2026-03-27 14:42:38] INPUT=create folder harish in documents | TOOL=create_folder | ARGS={'folder_name': 'harish', 'location': 'documents'} | RESULT=Created folder: C:\Users\Admin\OneDrive\Documents\harish
+[2026-03-27 14:42:55] INPUT=open folder c:\users\admin\onedrive\documents\harish | TOOL=open_folder | ARGS={'path': 'c:\\users\\admin\\onedrive\\documents\\harish'} | RESULT=Opened folder: C:\Users\Admin\OneDrive\Documents\harish
+[2026-03-27 14:43:16] INPUT=open bluetooth settings | TOOL=open_bluetooth_settings | ARGS={} | RESULT=Opened Bluetooth settings.
+[2026-03-27 14:46:08] INPUT=open bluetooth settings. | TOOL=open_bluetooth_settings | ARGS={} | RESULT=Opened Bluetooth settings.
+[2026-03-27 14:46:20] INPUT=open notepad | TOOL=open_notepad | ARGS={} | RESULT=Bringing Notepad to front
+[2026-03-27 14:46:40] INPUT=play cocomelon in youtube | TOOL=open_youtube | ARGS={'query': 'cocomelon'} | RESULT=Opening YouTube
+[2026-03-27 14:47:16] INPUT=create folder fasil in doucments | TOOL=create_folder | ARGS={'folder_name': 'fasil in doucments', 'location': 'jarvis'} | RESULT=Created folder: C:\Users\Admin\Desktop\JarvisWorkspace\fasil in doucments
+[2026-03-27 14:47:29] INPUT=open folder c:\users\admin\desktop\jarvisworkspace\fasil in doucments | TOOL=open_folder | ARGS={'path': 'c:\\users\\admin\\desktop\\jarvisworkspace\\fasil in doucments'} | RESULT=Opened folder: C:\Users\Admin\Desktop\JarvisWorkspace\fasil in doucments
+[2026-03-27 15:21:41] INPUT=open bluetooth settings. | TOOL=open_bluetooth_settings | ARGS={} | RESULT=Opened Bluetooth settings.
+[2026-03-27 15:21:54] INPUT=open notepad | TOOL=open_notepad | ARGS={} | RESULT=Bringing Notepad to front
+[2026-03-27 15:22:16] INPUT=play cocomelon on youtube | TOOL=open_youtube | ARGS={'query': 'cocomelon'} | RESULT=Opening YouTube
+[2026-03-27 15:22:57] INPUT=create folder sateendar | TOOL=create_folder | ARGS={'folder_name': 'sateendar', 'location': 'jarvis'} | RESULT=Created folder: C:\Users\Admin\Desktop\JarvisWorkspace\sateendar
+[2026-03-27 15:23:12] INPUT=open folder c:\users\admin\desktop\jarvisworkspace\sateendar | TOOL=open_folder | ARGS={'path': 'c:\\users\\admin\\desktop\\jarvisworkspace\\sateendar'} | RESULT=Opened folder: C:\Users\Admin\Desktop\JarvisWorkspace\sateendar
+[2026-03-27 15:23:48] INPUT=delete folder c:\users\admin\desktop\jarvisworkspace\sateendar | TOOL=general_chat | ARGS={'text': 'delete folder c:\\users\\admin\\desktop\\jarvisworkspace\\sateendar'} | RESULT=I can help by searching this on the web: https://www.google.com/search?q=delete%20folder%20c%3A%5Cusers%5Cadmin%5Cdesktop%5Cjarvisworkspace%5Csateendar
+[2026-03-27 15:26:49] INPUT=hey, jarvis. | TOOL=general_chat | ARGS={'text': 'hey, jarvis.'} | RESULT=I can help by searching this on the web: https://www.google.com/search?q=hey%2C%20jarvis.
+[2026-03-27 15:28:37] INPUT=open notepad | TOOL=open_notepad | ARGS={} | RESULT=Bringing Notepad to front
+[2026-03-27 15:28:59] INPUT=open bluetooth settings. | TOOL=open_bluetooth_settings | ARGS={} | RESULT=Opened Bluetooth settings.
+[2026-03-27 15:29:12] INPUT=play cocomelon in youtube | TOOL=open_youtube | ARGS={'query': 'cocomelon'} | RESULT=Opening YouTube
+[2026-03-27 15:29:29] INPUT=open gmail | TOOL=open_gmail_compose | ARGS={} | RESULT=Opened Gmail compose window.
+[2026-03-27 15:30:47] INPUT=create folder jarvis0 in documents | TOOL=create_folder | ARGS={'folder_name': 'jarvis0', 'location': 'documents'} | RESULT=Created folder: C:\Users\Admin\OneDrive\Documents\jarvis0
+[2026-03-27 15:31:00] INPUT=open folder c:\users\admin\onedrive\documents\jarvis0 | TOOL=open_folder | ARGS={'path': 'c:\\users\\admin\\onedrive\\documents\\jarvis0'} | RESULT=Opened folder: C:\Users\Admin\OneDrive\Documents\jarvis0
+[2026-03-27 15:31:25] INPUT=create folder jarvis0 | TOOL=create_folder | ARGS={'folder_name': 'jarvis0', 'location': 'jarvis'} | RESULT=Created folder: C:\Users\Admin\Desktop\JarvisWorkspace\jarvis0
+[2026-03-27 15:40:46] INPUT=open notepad | TOOL=open_notepad | ARGS={} | RESULT=Bringing Notepad to front
+[2026-03-27 15:41:02] INPUT=open bluetooth settings. | TOOL=open_bluetooth_settings | ARGS={} | RESULT=Opened Bluetooth settings.
+[2026-03-27 15:41:13] INPUT=play cocomelon on youtube | TOOL=open_youtube | ARGS={'query': 'cocomelon'} | RESULT=Opening YouTube
+[2026-03-27 15:41:49] INPUT=create folder pooja on documents | TOOL=create_folder | ARGS={'folder_name': 'pooja on documents', 'location': 'documents'} | RESULT=Created folder: C:\Users\Admin\OneDrive\Documents\pooja on documents
+[2026-03-27 15:42:03] INPUT=open folder c:\users\admin\onedrive\documents\pooja on documents | TOOL=open_folder | ARGS={'path': 'c:\\users\\admin\\onedrive\\documents\\pooja on documents'} | RESULT=Opened folder: C:\Users\Admin\OneDrive\Documents\pooja on documents
+[2026-03-27 15:42:44] INPUT=delete folder c:\users\admin\onedrive\documents\pooja on documents | TOOL=general_chat | ARGS={'text': 'delete folder c:\\users\\admin\\onedrive\\documents\\pooja on documents'} | RESULT=I can help by searching this on the web: https://www.google.com/search?q=delete%20folder%20c%3A%5Cusers%5Cadmin%5Conedrive%5Cdocuments%5Cpooja%20on%20documents
+[2026-03-27 15:43:14] INPUT=open gmail | TOOL=open_gmail_compose | ARGS={} | RESULT=Opened Gmail compose window.
+[2026-03-27 15:47:39] INPUT=open notepad | TOOL=open_notepad | ARGS={} | RESULT=Bringing Notepad to front
+[2026-03-27 15:47:57] INPUT=open bluetooth settings. | TOOL=open_bluetooth_settings | ARGS={} | RESULT=Opened Bluetooth settings.
+[2026-03-27 15:48:18] INPUT=play cocomelon on youtube | TOOL=open_youtube | ARGS={'query': 'cocomelon'} | RESULT=Opening YouTube
+[2026-03-27 15:48:47] INPUT=create folder nikitha on documents | TOOL=create_folder | ARGS={'folder_name': 'nikitha on documents', 'location': 'documents'} | RESULT=Created folder: C:\Users\Admin\OneDrive\Documents\nikitha on documents
+[2026-03-27 15:48:58] INPUT=open folder c:\users\admin\onedrive\documents\nikitha on documents | TOOL=open_folder | ARGS={'path': 'c:\\users\\admin\\onedrive\\documents\\nikitha on documents'} | RESULT=Opened folder: C:\Users\Admin\OneDrive\Documents\nikitha on documents
+[2026-03-27 15:52:45] INPUT=open youtube | TOOL=open_youtube | ARGS={'query': ''} | RESULT=Opening YouTube
+[2026-03-27 15:53:14] INPUT=open notepad | TOOL=open_notepad | ARGS={} | RESULT=Bringing Notepad to front
+[2026-03-27 15:54:50] INPUT=open bluetooth settings. | TOOL=open_bluetooth_settings | ARGS={} | RESULT=Opened Bluetooth settings.
+[2026-03-27 15:55:16] INPUT=play cocommelon on youtube | TOOL=open_youtube | ARGS={'query': 'cocommelon'} | RESULT=Opening YouTube
+[2026-03-27 15:55:37] INPUT=open pornhub | TOOL=general_chat | ARGS={'text': 'open pornhub'} | RESULT=I can help by searching this on the web: https://www.google.com/search?q=open%20pornhub
+[2026-03-27 15:56:35] INPUT=create folder jayanth in documents | TOOL=create_folder | ARGS={'folder_name': 'jayanth', 'location': 'documents'} | RESULT=Created folder: C:\Users\Admin\OneDrive\Documents\jayanth
+[2026-03-27 15:56:49] INPUT=open folder c:\users\admin\onedrive\documents\jayanth | TOOL=open_folder | ARGS={'path': 'c:\\users\\admin\\onedrive\\documents\\jayanth'} | RESULT=Opened folder: C:\Users\Admin\OneDrive\Documents\jayanth
+[2026-03-31 15:51:06] INPUT=hi, jarvis. | TOOL=general_chat | ARGS={'text': 'hi, jarvis.'} | RESULT=I can help by searching this on the web: https://www.google.com/search?q=hi%2C%20jarvis.
+[2026-03-31 15:51:43] INPUT=open calculator. | TOOL=open_calculator | ARGS={} | RESULT=Opening Calculator
+[2026-03-31 15:51:53] INPUT=who is ajit kumar? | TOOL=general_chat | ARGS={'text': 'who is ajit kumar?'} | RESULT=I can help by searching this on the web: https://www.google.com/search?q=who%20is%20ajit%20kumar%3F
+[2026-03-31 15:52:37] INPUT=hey jarvis | TOOL=general_chat | ARGS={'text': 'hey jarvis'} | RESULT=Hello, I am Jarvis AI. How can I help you?
+[2026-03-31 15:53:02] INPUT=how are you | TOOL=general_chat | ARGS={'text': 'how are you'} | RESULT=I am doing well, thanks! I am ready to assist you.
+[2026-03-31 15:53:11] INPUT=who are you | TOOL=general_chat | ARGS={'text': 'who are you'} | RESULT=I am Jarvis AI, your personal assistant with safe general chat and web search support.
+[2026-03-31 15:56:03] INPUT=hey jarvis | TOOL=general_chat | ARGS={'text': 'hey jarvis'} | RESULT=Hello, I am Jarvis AI. How can I help you?
+[2026-03-31 15:56:27] INPUT=open notepad. | TOOL=open_notepad | ARGS={} | RESULT=Opening Notepad
+[2026-03-31 15:56:46] INPUT=open calculator. | TOOL=open_calculator | ARGS={} | RESULT=Opening Calculator
+[2026-03-31 15:56:56] INPUT=play coco melon in youtube. | TOOL=open_youtube | ARGS={'query': 'coco melon  .'} | RESULT=Opening YouTube
+[2026-03-31 15:58:12] INPUT=create a new folder called anbu in downloads | TOOL=create_folder | ARGS={'folder_name': 'called anbu', 'location': 'downloads'} | RESULT=Created folder: C:\Users\Admin\Downloads\called anbu
+[2026-03-31 15:58:59] INPUT=hey, jarvis. | TOOL=general_chat | ARGS={'text': 'hey, jarvis.'} | RESULT=I can help by searching this on the web: https://www.google.com/search?q=hey%2C%20jarvis.
+[2026-03-31 16:00:59] INPUT=hey jarvis | TOOL=general_chat | ARGS={'text': 'hey jarvis'} | RESULT=Hello, I am Jarvis AI. How can I help you?
+[2026-03-31 16:01:13] INPUT=open calculator. | TOOL=open_calculator | ARGS={} | RESULT=Opening Calculator
+[2026-03-31 16:01:25] INPUT=browse lana del rey songs. | TOOL=open_search | ARGS={'query': 'lana del rey songs.'} | RESULT=Opened browser search for 'lana del rey songs.'.
+[2026-03-31 16:01:40] INPUT=play coco milan in youtube. | TOOL=open_youtube | ARGS={'query': 'coco milan  .'} | RESULT=Opening YouTube
+[2026-03-31 16:02:00] INPUT=create a new folder called anbil in downloads. | TOOL=create_folder | ARGS={'folder_name': 'NewFolder', 'location': 'downloads'} | RESULT=Created folder: C:\Users\Admin\Downloads\NewFolder
+[2026-03-31 16:02:36] INPUT=hey jarvis | TOOL=general_chat | ARGS={'text': 'hey jarvis'} | RESULT=Hello, I am Jarvis AI. How can I help you?
+[2026-03-31 16:02:49] INPUT=open calculator. | TOOL=open_calculator | ARGS={} | RESULT=Opening Calculator
+[2026-03-31 16:03:01] INPUT=browse ajit kumar. | TOOL=open_search | ARGS={'query': 'ajit kumar.'} | RESULT=Opened browser search for 'ajit kumar.'.
+[2026-03-31 16:04:15] INPUT=hey jarvis | TOOL=general_chat | ARGS={'text': 'hey jarvis'} | RESULT=Hello, I am Jarvis AI. How can I help you?
+[2026-03-31 16:04:26] INPUT=open calculator. | TOOL=open_calculator | ARGS={} | RESULT=Opening Calculator
+[2026-03-31 16:04:38] INPUT=search ajit kumar. | TOOL=open_search | ARGS={'query': 'ajit kumar.'} | RESULT=Opened browser search for 'ajit kumar.'.
+[2026-03-31 16:05:01] INPUT=create a new folder called anbu in downloads | TOOL=create_folder | ARGS={'folder_name': 'called anbu', 'location': 'downloads'} | RESULT=Folder already exists: C:\Users\Admin\Downloads\called anbu
+[2026-03-31 16:05:51] INPUT=hey jarvis | TOOL=general_chat | ARGS={'text': 'hey jarvis'} | RESULT=Hello, I am Jarvis AI. How can I help you?
+[2026-03-31 16:06:05] INPUT=create a new folder leo in downloads | TOOL=create_folder | ARGS={'folder_name': 'leo', 'location': 'downloads'} | RESULT=Created folder: C:\Users\Admin\Downloads\leo
+[2026-03-31 16:06:16] INPUT=open c:\users\admin\downloads\leo | TOOL=general_chat | ARGS={'text': 'open c:\\users\\admin\\downloads\\leo'} | RESULT=I can help by searching this on the web: https://www.google.com/search?q=open%20c%3A%5Cusers%5Cadmin%5Cdownloads%5Cleo
+[2026-03-31 16:07:17] INPUT=hey jarvis | TOOL=general_chat | ARGS={'text': 'hey jarvis'} | RESULT=Hello, I am Jarvis AI. How can I help you?
+[2026-03-31 16:07:36] INPUT=create a new folder leooo in downloads | TOOL=create_folder | ARGS={'folder_name': 'leooo', 'location': 'downloads'} | RESULT=Created folder: C:\Users\Admin\Downloads\leooo
+[2026-03-31 16:07:50] INPUT=open folder  c:\users\admin\downloads\leooo | TOOL=open_folder | ARGS={'path': 'c:\\users\\admin\\downloads\\leooo'} | RESULT=Opened folder: C:\Users\Admin\Downloads\leooo
+[2026-03-31 16:08:22] INPUT=open calculator. | TOOL=open_calculator | ARGS={} | RESULT=Opening Calculator
+[2026-03-31 16:08:33] INPUT=play coco melon in youtube. | TOOL=open_youtube | ARGS={'query': 'coco melon  .'} | RESULT=Opening YouTube
+[2026-03-31 16:08:48] INPUT=browse lana del rey. | TOOL=open_search | ARGS={'query': 'lana del rey.'} | RESULT=Opened browser search for 'lana del rey.'.
+[2026-03-31 16:12:01] INPUT=hey jarvis | TOOL=general_chat | ARGS={'text': 'hey jarvis'} | RESULT=Hello, I am Jarvis AI. How can I help you?
+[2026-03-31 16:12:15] INPUT=create a new folder stelone in downloads | TOOL=create_folder | ARGS={'folder_name': 'stelone', 'location': 'downloads'} | RESULT=Created folder: C:\Users\Admin\Downloads\stelone
+[2026-03-31 16:12:26] INPUT=open c:\users\admin\downloads\stelone | TOOL=general_chat | ARGS={'text': 'open c:\\users\\admin\\downloads\\stelone'} | RESULT=I can help by searching this on the web: https://www.google.com/search?q=open%20c%3A%5Cusers%5Cadmin%5Cdownloads%5Cstelone
+[2026-03-31 16:14:26] INPUT=hey jarvis | TOOL=general_chat | ARGS={'text': 'hey jarvis'} | RESULT=Hello, I am Jarvis AI. How can I help you?
+[2026-03-31 16:14:48] INPUT=create a new folder stellone in downloads | TOOL=create_folder | ARGS={'folder_name': 'stellone', 'location': 'downloads'} | RESULT=Created folder: C:\Users\Admin\Downloads\stellone
+[2026-03-31 16:15:01] INPUT=open folder c:\users\admin\downloads\stellone | TOOL=open_folder | ARGS={'path': 'c:\\users\\admin\\downloads\\stellone'} | RESULT=Opened folder: C:\Users\Admin\Downloads\stellone
+[2026-03-31 16:15:26] INPUT=open calculator. | TOOL=open_calculator | ARGS={} | RESULT=Opening Calculator
+[2026-03-31 16:15:35] INPUT=browse ajit kumar. | TOOL=open_search | ARGS={'query': 'ajit kumar.'} | RESULT=Opened browser search for 'ajit kumar.'.
+[2026-03-31 16:15:45] INPUT=play coco milan in youtube. | TOOL=open_youtube | ARGS={'query': 'coco milan  .'} | RESULT=Opening YouTube
+[2026-03-31 16:16:33] INPUT=hey jarvis | TOOL=general_chat | ARGS={'text': 'hey jarvis'} | RESULT=Hello, I am Jarvis AI. How can I help you?
+[2026-03-31 16:18:47] INPUT=hey jarvis | TOOL=general_chat | ARGS={'text': 'hey jarvis'} | RESULT=Hello, I am Jarvis AI. How can I help you?
+[2026-03-31 16:19:00] INPUT=create a new folder leo in downloads | TOOL=create_folder | ARGS={'folder_name': 'leo', 'location': 'downloads'} | RESULT=Created folder: C:\Users\Admin\Downloads\leo
+[2026-03-31 16:19:14] INPUT=open folder c:\users\admin\downloads\leo | TOOL=open_folder | ARGS={'path': 'c:\\users\\admin\\downloads\\leo'} | RESULT=Opened folder: C:\Users\Admin\Downloads\leo
+[2026-03-31 16:19:44] INPUT=open calculator. | TOOL=open_calculator | ARGS={} | RESULT=Opening Calculator
+[2026-03-31 16:19:51] INPUT=browse ajit kumar. | TOOL=open_search | ARGS={'query': 'ajit kumar.'} | RESULT=Opened browser search for 'ajit kumar.'.
+[2026-03-31 16:20:02] INPUT=play coco melon in youtube. | TOOL=open_youtube | ARGS={'query': 'coco melon  .'} | RESULT=Opening YouTube
+[2026-03-31 16:23:06] INPUT=hey jarvis | TOOL=general_chat | ARGS={'text': 'hey jarvis'} | RESULT=Hello, I am Jarvis AI. How can I help you?
+[2026-03-31 16:23:24] INPUT=create a new folder stelone in downloads | TOOL=create_folder | ARGS={'folder_name': 'stelone', 'location': 'downloads'} | RESULT=Created folder: C:\Users\Admin\Downloads\stelone
+[2026-03-31 16:23:36] INPUT=open folder c:\users\admin\downloads\stelone | TOOL=open_folder | ARGS={'path': 'c:\\users\\admin\\downloads\\stelone'} | RESULT=Opened folder: C:\Users\Admin\Downloads\stelone
+[2026-03-31 16:23:54] INPUT=open calculator. | TOOL=open_calculator | ARGS={} | RESULT=Opening Calculator
+[2026-03-31 16:24:03] INPUT=browse ajit kumar. | TOOL=open_search | ARGS={'query': 'ajit kumar.'} | RESULT=Opened browser search for 'ajit kumar.'.
+[2026-03-31 16:24:14] INPUT=open gmail. | TOOL=open_gmail_compose | ARGS={} | RESULT=Opened Gmail compose window.
+[2026-03-31 16:24:31] INPUT=play coco milan in youtube. | TOOL=open_youtube | ARGS={'query': 'coco milan  .'} | RESULT=Opening YouTube
+[2026-03-31 16:26:00] INPUT=hey jarvis | TOOL=general_chat | ARGS={'text': 'hey jarvis'} | RESULT=Hello, I am Jarvis AI. How can I help you?
+[2026-03-31 16:26:17] INPUT=create a new folder leo in downloads | TOOL=create_folder | ARGS={'folder_name': 'leo', 'location': 'downloads'} | RESULT=Created folder: C:\Users\Admin\Downloads\leo
+[2026-03-31 16:26:28] INPUT=open folder  c:\users\admin\downloads\leo | TOOL=open_folder | ARGS={'path': 'c:\\users\\admin\\downloads\\leo'} | RESULT=Opened folder: C:\Users\Admin\Downloads\leo
+[2026-03-31 16:27:03] INPUT=open calculator. | TOOL=open_calculator | ARGS={} | RESULT=Opening Calculator
+[2026-03-31 16:27:20] INPUT=hey jarvis | TOOL=general_chat | ARGS={'text': 'hey jarvis'} | RESULT=Hello, I am Jarvis AI. How can I help you?
+[2026-03-31 16:27:34] INPUT=create a new folder stellone in downloads | TOOL=create_folder | ARGS={'folder_name': 'stellone', 'location': 'downloads'} | RESULT=Created folder: C:\Users\Admin\Downloads\stellone
+[2026-03-31 16:27:46] INPUT=open folder c:\users\admin\downloads\stellone | TOOL=open_folder | ARGS={'path': 'c:\\users\\admin\\downloads\\stellone'} | RESULT=Opened folder: C:\Users\Admin\Downloads\stellone
+[2026-03-31 16:28:10] INPUT=open calculator. | TOOL=open_calculator | ARGS={} | RESULT=Opening Calculator
+[2026-03-31 16:28:19] INPUT=browse ajit kumar. | TOOL=open_search | ARGS={'query': 'ajit kumar.'} | RESULT=Opened browser search for 'ajit kumar.'.
+[2026-03-31 16:28:30] INPUT=play coco melon in youtube. | TOOL=open_youtube | ARGS={'query': 'coco melon  .'} | RESULT=Opening YouTube

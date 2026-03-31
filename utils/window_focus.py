@@ -117,9 +117,9 @@ def _find_window_by_process_names(process_names, timeout=3):
     return None
 
 
-def focus_existing_process(process_names):
+def focus_existing_process(process_names, timeout=3):
     try:
-        hwnd = _find_window_by_process_names(process_names, timeout=3)
+        hwnd = _find_window_by_process_names(process_names, timeout=timeout)
         if hwnd:
             return _force_foreground(hwnd)
         return False
@@ -127,18 +127,27 @@ def focus_existing_process(process_names):
         return False
 
 
-def launch_and_focus(command, success_message="Opening application", process_names=None):
+def launch_and_focus(
+    command,
+    success_message="Opening application",
+    process_names=None,
+    launch_delay=1.0,
+    focus_timeout=8,
+):
     try:
         subprocess.Popen(command, shell=True)
-        time.sleep(1.2)
+        time.sleep(launch_delay)
 
         hwnd = None
 
         if process_names:
-            hwnd = _find_window_by_process_names(process_names, timeout=6)
+            hwnd = _find_window_by_process_names(process_names, timeout=focus_timeout)
 
         if hwnd:
             _force_foreground(hwnd)
+        elif process_names:
+            # Some apps create the main window a little later; retry one more time.
+            focus_existing_process(process_names, timeout=2)
 
         return success_message
 

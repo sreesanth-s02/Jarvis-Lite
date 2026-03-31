@@ -11,7 +11,7 @@ def home():
 <!DOCTYPE html>
 <html>
 <head>
-<title>Jarvis Lite</title>
+<title>Jarvis</title>
 
 <style>
 body {
@@ -44,6 +44,11 @@ h2 {
     max-height: 60vh;
     overflow-y: auto;
     margin-bottom: 120px;
+    scrollbar-width: none; /* Firefox */
+    -ms-overflow-style: none; /* IE 10+ */
+}
+#chat::-webkit-scrollbar {
+    display: none; /* WebKit */
 }
 
 /* MESSAGE ROW */
@@ -148,7 +153,7 @@ button {
 <body>
 
 <canvas id="particleCanvas"></canvas>
-<h2>Jarvis Lite</h2>
+<h2>Jarvis</h2>
 
 <div id="chat"></div>
 
@@ -174,6 +179,7 @@ const ctx = canvas.getContext("2d");
 let listening = false;
 let recognition = null;
 let isRecognizing = false;
+let isWaitingForResponse = false;
 let voices = [];
 
 function resize(size){
@@ -266,6 +272,7 @@ function speakResponse(text) {
     }
 
     window.speechSynthesis.cancel();
+    isWaitingForResponse = true;
 
     const utterance = new SpeechSynthesisUtterance(text);
     const selectedVoice = getPreferredMaleVoice();
@@ -280,6 +287,14 @@ function speakResponse(text) {
     utterance.rate = 0.95;
     utterance.pitch = 0.75;
     utterance.volume = 1;
+
+    utterance.onend = function() {
+        isWaitingForResponse = false;
+    };
+
+    utterance.onerror = function() {
+        isWaitingForResponse = false;
+    };
 
     window.speechSynthesis.speak(utterance);
 }
@@ -373,6 +388,11 @@ function toggleMic(){
 
 /* ---------------- CHAT + TYPING ---------------- */
 async function sendMessage(){
+    if (isWaitingForResponse) {
+        alert("Please wait until the previous response has finished speaking.");
+        return;
+    }
+
     const input = document.getElementById("input");
     const chat = document.getElementById("chat");
 

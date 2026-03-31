@@ -1,0 +1,10 @@
+flask
+SpeechRecognition
+pyaudio
+pyttsx3
+requests
+pywin32
+psutil
+pipwin
+google-genai
+psutil

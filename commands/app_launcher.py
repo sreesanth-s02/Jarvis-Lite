@@ -33,7 +33,52 @@ APP_MAP = {
         "processes": ["cmd.exe"],
         "command": "start cmd",
         "message": "Opening Command Prompt"
-    }
+    },
+    "edge": {
+        "processes": ["msedge.exe"],
+        "command": "start msedge",
+        "message": "Opening Edge"
+    },
+    "brave": {
+        "processes": ["brave.exe"],
+        "command": "start brave",
+        "message": "Opening Brave"
+    },
+    "firefox": {
+        "processes": ["firefox.exe"],
+        "command": "start firefox",
+        "message": "Opening Firefox"
+    },
+    "opera": {
+        "processes": ["opera.exe"],
+        "command": "start opera",
+        "message": "Opening Opera"
+    },
+    "excel": {
+        "processes": ["excel.exe"],
+        "command": "start excel",
+        "message": "Opening Excel"
+    },
+    "word": {
+        "processes": ["winword.exe"],
+        "command": "start winword",
+        "message": "Opening Word"
+    },
+    "powerpoint": {
+        "processes": ["powerpnt.exe"],
+        "command": "start powerpnt",
+        "message": "Opening PowerPoint"
+    },
+    "vscode": {
+        "processes": ["Code.exe"],
+        "command": "start code",
+        "message": "Opening VSCode"
+    },
+    "gmail": {
+        "processes": ["chrome.exe", "msedge.exe", "firefox.exe", "opera.exe"],
+        "command": "start chrome",
+        "message": "Opening Gmail"
+    },  
 }
 
 
@@ -42,13 +87,15 @@ def open_desktop_app(app_key):
     if not app:
         return f"Unknown app: {app_key}"
 
-    if focus_existing_process(app["processes"]):
+    if focus_existing_process(app["processes"], timeout=4):
         return f"Bringing {app_key.title()} to front"
 
     return launch_and_focus(
         app["command"],
         app["message"],
-        process_names=app["processes"]
+        process_names=app["processes"],
+        launch_delay=0.8,
+        focus_timeout=12,
     )
 
 

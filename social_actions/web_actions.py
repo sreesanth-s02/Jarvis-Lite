@@ -27,3 +27,10 @@ class WebActions:
         )
         webbrowser.open(url)
         return "Opened Gmail compose window."
+
+    def open_search(self, query: str) -> str:
+        if not query:
+            return "No query provided for web search."
+        url = f"https://www.google.com/search?q={quote(query)}"
+        webbrowser.open(url)
+        return f"Opened browser search for '{query}'."

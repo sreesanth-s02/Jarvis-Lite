@@ -1,0 +1,56 @@
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Environment and secret files
+.env
+.env.*
+!.env.example
+*.env
+*.secrets
+*.secret
+*.key
+*.pem
+*.p12
+*.pfx
+*.crt
+*credentials*.json
+*service-account*.json
+
+# Local config overrides that may contain API keys
+config.local.py
+local.settings.json
+
+# Logs and runtime artifacts
+logs/
+*.log
+
+# Test, lint, and coverage caches
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+.coverage.*
+htmlcov/
+
+# Build and packaging artifacts
+build/
+dist/
+*.egg-info/
+
+# IDE/editor files
+.vscode/
+.idea/
+*.swp
+Thumbs.db
+.DS_Store
+
+# Optional: large local speech model data (uncomment if you do not want to track it)
+# models/
